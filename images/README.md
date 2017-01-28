@@ -1,1 +1,4 @@
-aha > creating a folder by typing a pathname in GitHub web interface orm to creat a new file
+to create a new sub folder, just type a path+filename in GitHub web interface like ths:
+
+images/README.MD  << creates images folder if it does not exist
+
