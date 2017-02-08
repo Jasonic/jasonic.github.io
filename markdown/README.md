@@ -4,9 +4,10 @@
 ground.
 > ``` Dead leaves covered the ground.```
 
-> The sound of the falls could still be heard.
-
-``` The sound of the falls still reached our ears.```
+``` 
+The sound of the falls could still be heard.
+The sound of the falls still reached our ears.
+```
 
 > The reason that he left college was that his health became
 impaired.
