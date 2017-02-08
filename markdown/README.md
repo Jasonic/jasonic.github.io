@@ -2,8 +2,7 @@
 
 > There were a great number of dead leaves lying on the
 ground.
-
-``` Dead leaves covered the ground.```
+> ``` Dead leaves covered the ground.```
 
 > The sound of the falls could still be heard.
 
